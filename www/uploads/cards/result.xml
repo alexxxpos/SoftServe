@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<cards>
+  <card id="2">
+    <name>Alexander Pos</name>
+    <company>Home</company>
+    <job>boss</job>
+    <address>Dnepr</address>
+    <phone>911</phone>
+    <email>ap@mail.ua</email>
+  </card>
+</cards>

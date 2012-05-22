@@ -1,0 +1,81 @@
+@import url(/../css/reset.css);
+
+body{
+    background-color: #0B73D4;
+}
+
+
+h1{
+    font-size: 200%;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    padding: 20px 20px;
+    text-align: center;
+    color: blue;
+}
+
+.panel{
+    padding: 2%;
+}
+.panel input{
+    width:100%;
+}
+
+.panel input:hover{
+    cursor:pointer;
+    width:100%;
+}
+
+
+#container{
+    width:960px;
+    margin:0 auto;
+}
+
+.tabstyle {
+    border-spacing: 0;
+    width:100%;
+    
+}
+
+.tabstyle {
+    border: solid #aaa 1px;
+    box-shadow: 1px 1px 5px #bbb;  
+    -webkit-box-shadow: 1px 1px 5px #bbb; 
+    -moz-box-shadow: 1px 1px 5px #bbb; 
+    -o-box-shadow: 1px 1px 5px #bbb;  
+}
+
+.tabstyle td {
+    border-left: 1px solid #aaa;
+    border-top: 1px solid #aaa;
+    padding: 10px;
+    text-align: left;    
+}
+
+.tabstyle th {
+    border-left: 1px solid #aaa;
+    padding: 10px;  
+}
+
+.tabstyle td:first-child, .tabstyle th:first-child {
+    border-left: none;
+}
+
+.tabstyle th {
+    background-color: #e0ffc2;
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#cafd9d), to(#e0ffc2));
+    background-image: -webkit-linear-gradient(top, #cafd9d, #e0ffc2);
+    background-image:    -moz-linear-gradient(top, #cafd9d, #e0ffc2);
+    background-image:     -ms-linear-gradient(top, #cafd9d, #e0ffc2);
+    background-image:      -o-linear-gradient(top, #cafd9d, #e0ffc2);
+    background-image:         linear-gradient(top, #cafd9d, #e0ffc2);
+}
+
+.tabstyle tr:hover {
+    background: #ecfff9;
+    transition: all 0.1s ease;  
+    -webkit-transition: all 0.1s ease;
+    -moz-transition: all 0.1s ease;
+    -o-transition: all 0.1s ease;
+    -ms-transition: all 0.1s ease;
+}

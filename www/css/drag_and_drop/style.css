@@ -1,0 +1,22 @@
+
+#drag_and_drop{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    color:white;
+    line-height: 200px;
+    text-align: center;
+    font-size: 200%;
+    border-radius:15px; 
+    -webkit-border-radius:15px;
+    -o-border-radius:15px; 
+    -moz-border-radius:15px; 
+    -khtml-border-radius:15px;
+}
+
+#drag_and_drop:hover{
+    background-color: red;
+    color:black;
+    cursor:pointer;
+}

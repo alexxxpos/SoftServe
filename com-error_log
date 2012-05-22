@@ -1,0 +1,743 @@
+[Mon Apr 16 12:23:18 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 12:24:55 2012] [crit] [client 127.0.0.1] (13)Отказано в доступе: /home/alexxx/ServerDocs/calling_cards.my/www/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable
+[Mon Apr 16 12:24:56 2012] [crit] [client 127.0.0.1] (13)Отказано в доступе: /home/alexxx/ServerDocs/calling_cards.my/www/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable
+[Mon Apr 16 12:25:04 2012] [error] [client 127.0.0.1] PHP Warning:  Unknown: failed to open stream: \xd0\x9e\xd1\x82\xd0\xba\xd0\xb0\xd0\xb7\xd0\xb0\xd0\xbd\xd0\xbe \xd0\xb2 \xd0\xb4\xd0\xbe\xd1\x81\xd1\x82\xd1\x83\xd0\xbf\xd0\xb5 in Unknown on line 0
+[Mon Apr 16 12:25:04 2012] [error] [client 127.0.0.1] PHP Fatal error:  Unknown: Failed opening required '/home/alexxx/ServerDocs/calling_cards.my/www/index.php' (include_path='.:/opt/lampp/lib/php') in Unknown on line 0
+[Mon Apr 16 12:25:04 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 12:25:06 2012] [error] [client 127.0.0.1] PHP Warning:  Unknown: failed to open stream: \xd0\x9e\xd1\x82\xd0\xba\xd0\xb0\xd0\xb7\xd0\xb0\xd0\xbd\xd0\xbe \xd0\xb2 \xd0\xb4\xd0\xbe\xd1\x81\xd1\x82\xd1\x83\xd0\xbf\xd0\xb5 in Unknown on line 0
+[Mon Apr 16 12:25:06 2012] [error] [client 127.0.0.1] PHP Fatal error:  Unknown: Failed opening required '/home/alexxx/ServerDocs/calling_cards.my/www/index.php' (include_path='.:/opt/lampp/lib/php') in Unknown on line 0
+[Mon Apr 16 12:25:06 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 12:25:06 2012] [error] [client 127.0.0.1] PHP Warning:  Unknown: failed to open stream: \xd0\x9e\xd1\x82\xd0\xba\xd0\xb0\xd0\xb7\xd0\xb0\xd0\xbd\xd0\xbe \xd0\xb2 \xd0\xb4\xd0\xbe\xd1\x81\xd1\x82\xd1\x83\xd0\xbf\xd0\xb5 in Unknown on line 0
+[Mon Apr 16 12:25:06 2012] [error] [client 127.0.0.1] PHP Fatal error:  Unknown: Failed opening required '/home/alexxx/ServerDocs/calling_cards.my/www/index.php' (include_path='.:/opt/lampp/lib/php') in Unknown on line 0
+[Mon Apr 16 12:25:06 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 12:25:06 2012] [error] [client 127.0.0.1] PHP Warning:  Unknown: failed to open stream: \xd0\x9e\xd1\x82\xd0\xba\xd0\xb0\xd0\xb7\xd0\xb0\xd0\xbd\xd0\xbe \xd0\xb2 \xd0\xb4\xd0\xbe\xd1\x81\xd1\x82\xd1\x83\xd0\xbf\xd0\xb5 in Unknown on line 0
+[Mon Apr 16 12:25:06 2012] [error] [client 127.0.0.1] PHP Fatal error:  Unknown: Failed opening required '/home/alexxx/ServerDocs/calling_cards.my/www/index.php' (include_path='.:/opt/lampp/lib/php') in Unknown on line 0
+[Mon Apr 16 12:25:06 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 12:25:07 2012] [error] [client 127.0.0.1] PHP Warning:  Unknown: failed to open stream: \xd0\x9e\xd1\x82\xd0\xba\xd0\xb0\xd0\xb7\xd0\xb0\xd0\xbd\xd0\xbe \xd0\xb2 \xd0\xb4\xd0\xbe\xd1\x81\xd1\x82\xd1\x83\xd0\xbf\xd0\xb5 in Unknown on line 0
+[Mon Apr 16 12:25:07 2012] [error] [client 127.0.0.1] PHP Fatal error:  Unknown: Failed opening required '/home/alexxx/ServerDocs/calling_cards.my/www/index.php' (include_path='.:/opt/lampp/lib/php') in Unknown on line 0
+[Mon Apr 16 12:25:07 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 12:25:08 2012] [error] [client 127.0.0.1] PHP Warning:  Unknown: failed to open stream: \xd0\x9e\xd1\x82\xd0\xba\xd0\xb0\xd0\xb7\xd0\xb0\xd0\xbd\xd0\xbe \xd0\xb2 \xd0\xb4\xd0\xbe\xd1\x81\xd1\x82\xd1\x83\xd0\xbf\xd0\xb5 in Unknown on line 0
+[Mon Apr 16 12:25:08 2012] [error] [client 127.0.0.1] PHP Fatal error:  Unknown: Failed opening required '/home/alexxx/ServerDocs/calling_cards.my/www/index.php' (include_path='.:/opt/lampp/lib/php') in Unknown on line 0
+[Mon Apr 16 12:25:08 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 12:25:08 2012] [error] [client 127.0.0.1] PHP Warning:  Unknown: failed to open stream: \xd0\x9e\xd1\x82\xd0\xba\xd0\xb0\xd0\xb7\xd0\xb0\xd0\xbd\xd0\xbe \xd0\xb2 \xd0\xb4\xd0\xbe\xd1\x81\xd1\x82\xd1\x83\xd0\xbf\xd0\xb5 in Unknown on line 0
+[Mon Apr 16 12:25:08 2012] [error] [client 127.0.0.1] PHP Fatal error:  Unknown: Failed opening required '/home/alexxx/ServerDocs/calling_cards.my/www/index.php' (include_path='.:/opt/lampp/lib/php') in Unknown on line 0
+[Mon Apr 16 12:25:08 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 12:25:08 2012] [error] [client 127.0.0.1] PHP Warning:  Unknown: failed to open stream: \xd0\x9e\xd1\x82\xd0\xba\xd0\xb0\xd0\xb7\xd0\xb0\xd0\xbd\xd0\xbe \xd0\xb2 \xd0\xb4\xd0\xbe\xd1\x81\xd1\x82\xd1\x83\xd0\xbf\xd0\xb5 in Unknown on line 0
+[Mon Apr 16 12:25:08 2012] [error] [client 127.0.0.1] PHP Fatal error:  Unknown: Failed opening required '/home/alexxx/ServerDocs/calling_cards.my/www/index.php' (include_path='.:/opt/lampp/lib/php') in Unknown on line 0
+[Mon Apr 16 12:25:08 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 12:25:16 2012] [error] [client 127.0.0.1] PHP Warning:  Unknown: failed to open stream: \xd0\x9e\xd1\x82\xd0\xba\xd0\xb0\xd0\xb7\xd0\xb0\xd0\xbd\xd0\xbe \xd0\xb2 \xd0\xb4\xd0\xbe\xd1\x81\xd1\x82\xd1\x83\xd0\xbf\xd0\xb5 in Unknown on line 0
+[Mon Apr 16 12:25:16 2012] [error] [client 127.0.0.1] PHP Fatal error:  Unknown: Failed opening required '/home/alexxx/ServerDocs/calling_cards.my/www/index.php' (include_path='.:/opt/lampp/lib/php') in Unknown on line 0
+[Mon Apr 16 12:25:16 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 12:25:17 2012] [error] [client 127.0.0.1] PHP Warning:  Unknown: failed to open stream: \xd0\x9e\xd1\x82\xd0\xba\xd0\xb0\xd0\xb7\xd0\xb0\xd0\xbd\xd0\xbe \xd0\xb2 \xd0\xb4\xd0\xbe\xd1\x81\xd1\x82\xd1\x83\xd0\xbf\xd0\xb5 in Unknown on line 0
+[Mon Apr 16 12:25:17 2012] [error] [client 127.0.0.1] PHP Fatal error:  Unknown: Failed opening required '/home/alexxx/ServerDocs/calling_cards.my/www/index.php' (include_path='.:/opt/lampp/lib/php') in Unknown on line 0
+[Mon Apr 16 12:25:17 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 12:25:17 2012] [error] [client 127.0.0.1] PHP Warning:  Unknown: failed to open stream: \xd0\x9e\xd1\x82\xd0\xba\xd0\xb0\xd0\xb7\xd0\xb0\xd0\xbd\xd0\xbe \xd0\xb2 \xd0\xb4\xd0\xbe\xd1\x81\xd1\x82\xd1\x83\xd0\xbf\xd0\xb5 in Unknown on line 0
+[Mon Apr 16 12:25:17 2012] [error] [client 127.0.0.1] PHP Fatal error:  Unknown: Failed opening required '/home/alexxx/ServerDocs/calling_cards.my/www/index.php' (include_path='.:/opt/lampp/lib/php') in Unknown on line 0
+[Mon Apr 16 12:25:17 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 12:25:18 2012] [error] [client 127.0.0.1] PHP Warning:  Unknown: failed to open stream: \xd0\x9e\xd1\x82\xd0\xba\xd0\xb0\xd0\xb7\xd0\xb0\xd0\xbd\xd0\xbe \xd0\xb2 \xd0\xb4\xd0\xbe\xd1\x81\xd1\x82\xd1\x83\xd0\xbf\xd0\xb5 in Unknown on line 0
+[Mon Apr 16 12:25:18 2012] [error] [client 127.0.0.1] PHP Fatal error:  Unknown: Failed opening required '/home/alexxx/ServerDocs/calling_cards.my/www/index.php' (include_path='.:/opt/lampp/lib/php') in Unknown on line 0
+[Mon Apr 16 12:25:18 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 12:25:18 2012] [error] [client 127.0.0.1] PHP Warning:  Unknown: failed to open stream: \xd0\x9e\xd1\x82\xd0\xba\xd0\xb0\xd0\xb7\xd0\xb0\xd0\xbd\xd0\xbe \xd0\xb2 \xd0\xb4\xd0\xbe\xd1\x81\xd1\x82\xd1\x83\xd0\xbf\xd0\xb5 in Unknown on line 0
+[Mon Apr 16 12:25:18 2012] [error] [client 127.0.0.1] PHP Fatal error:  Unknown: Failed opening required '/home/alexxx/ServerDocs/calling_cards.my/www/index.php' (include_path='.:/opt/lampp/lib/php') in Unknown on line 0
+[Mon Apr 16 12:25:18 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 12:25:19 2012] [error] [client 127.0.0.1] PHP Warning:  Unknown: failed to open stream: \xd0\x9e\xd1\x82\xd0\xba\xd0\xb0\xd0\xb7\xd0\xb0\xd0\xbd\xd0\xbe \xd0\xb2 \xd0\xb4\xd0\xbe\xd1\x81\xd1\x82\xd1\x83\xd0\xbf\xd0\xb5 in Unknown on line 0
+[Mon Apr 16 12:25:19 2012] [error] [client 127.0.0.1] PHP Fatal error:  Unknown: Failed opening required '/home/alexxx/ServerDocs/calling_cards.my/www/index.php' (include_path='.:/opt/lampp/lib/php') in Unknown on line 0
+[Mon Apr 16 12:25:19 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 12:25:19 2012] [error] [client 127.0.0.1] PHP Warning:  Unknown: failed to open stream: \xd0\x9e\xd1\x82\xd0\xba\xd0\xb0\xd0\xb7\xd0\xb0\xd0\xbd\xd0\xbe \xd0\xb2 \xd0\xb4\xd0\xbe\xd1\x81\xd1\x82\xd1\x83\xd0\xbf\xd0\xb5 in Unknown on line 0
+[Mon Apr 16 12:25:19 2012] [error] [client 127.0.0.1] PHP Fatal error:  Unknown: Failed opening required '/home/alexxx/ServerDocs/calling_cards.my/www/index.php' (include_path='.:/opt/lampp/lib/php') in Unknown on line 0
+[Mon Apr 16 12:25:19 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 12:26:04 2012] [error] [client 127.0.0.1] PHP Warning:  Unknown: failed to open stream: \xd0\x9e\xd1\x82\xd0\xba\xd0\xb0\xd0\xb7\xd0\xb0\xd0\xbd\xd0\xbe \xd0\xb2 \xd0\xb4\xd0\xbe\xd1\x81\xd1\x82\xd1\x83\xd0\xbf\xd0\xb5 in Unknown on line 0
+[Mon Apr 16 12:26:04 2012] [error] [client 127.0.0.1] PHP Fatal error:  Unknown: Failed opening required '/home/alexxx/ServerDocs/calling_cards.my/www/index.php' (include_path='.:/opt/lampp/lib/php') in Unknown on line 0
+[Mon Apr 16 12:26:04 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 12:26:05 2012] [error] [client 127.0.0.1] PHP Warning:  Unknown: failed to open stream: \xd0\x9e\xd1\x82\xd0\xba\xd0\xb0\xd0\xb7\xd0\xb0\xd0\xbd\xd0\xbe \xd0\xb2 \xd0\xb4\xd0\xbe\xd1\x81\xd1\x82\xd1\x83\xd0\xbf\xd0\xb5 in Unknown on line 0
+[Mon Apr 16 12:26:05 2012] [error] [client 127.0.0.1] PHP Fatal error:  Unknown: Failed opening required '/home/alexxx/ServerDocs/calling_cards.my/www/index.php' (include_path='.:/opt/lampp/lib/php') in Unknown on line 0
+[Mon Apr 16 12:26:05 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 12:26:05 2012] [error] [client 127.0.0.1] PHP Warning:  Unknown: failed to open stream: \xd0\x9e\xd1\x82\xd0\xba\xd0\xb0\xd0\xb7\xd0\xb0\xd0\xbd\xd0\xbe \xd0\xb2 \xd0\xb4\xd0\xbe\xd1\x81\xd1\x82\xd1\x83\xd0\xbf\xd0\xb5 in Unknown on line 0
+[Mon Apr 16 12:26:05 2012] [error] [client 127.0.0.1] PHP Fatal error:  Unknown: Failed opening required '/home/alexxx/ServerDocs/calling_cards.my/www/index.php' (include_path='.:/opt/lampp/lib/php') in Unknown on line 0
+[Mon Apr 16 12:26:05 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 12:26:05 2012] [error] [client 127.0.0.1] PHP Warning:  Unknown: failed to open stream: \xd0\x9e\xd1\x82\xd0\xba\xd0\xb0\xd0\xb7\xd0\xb0\xd0\xbd\xd0\xbe \xd0\xb2 \xd0\xb4\xd0\xbe\xd1\x81\xd1\x82\xd1\x83\xd0\xbf\xd0\xb5 in Unknown on line 0
+[Mon Apr 16 12:26:05 2012] [error] [client 127.0.0.1] PHP Fatal error:  Unknown: Failed opening required '/home/alexxx/ServerDocs/calling_cards.my/www/index.php' (include_path='.:/opt/lampp/lib/php') in Unknown on line 0
+[Mon Apr 16 12:26:05 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 12:26:06 2012] [error] [client 127.0.0.1] PHP Warning:  Unknown: failed to open stream: \xd0\x9e\xd1\x82\xd0\xba\xd0\xb0\xd0\xb7\xd0\xb0\xd0\xbd\xd0\xbe \xd0\xb2 \xd0\xb4\xd0\xbe\xd1\x81\xd1\x82\xd1\x83\xd0\xbf\xd0\xb5 in Unknown on line 0
+[Mon Apr 16 12:26:06 2012] [error] [client 127.0.0.1] PHP Fatal error:  Unknown: Failed opening required '/home/alexxx/ServerDocs/calling_cards.my/www/index.php' (include_path='.:/opt/lampp/lib/php') in Unknown on line 0
+[Mon Apr 16 12:26:06 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 12:26:27 2012] [error] [client 127.0.0.1] (13)Отказано в доступе: file permissions deny server access: /home/alexxx/ServerDocs/calling_cards.my/www/css/reset.css, referer: http://calling_cards.my/
+[Mon Apr 16 12:26:27 2012] [error] [client 127.0.0.1] (13)Отказано в доступе: file permissions deny server access: /home/alexxx/ServerDocs/calling_cards.my/www/css/style.css, referer: http://calling_cards.my/
+[Mon Apr 16 12:26:27 2012] [error] [client 127.0.0.1] (13)Отказано в доступе: file permissions deny server access: /home/alexxx/ServerDocs/calling_cards.my/www/js/jquery-1.7.1.js, referer: http://calling_cards.my/
+[Mon Apr 16 12:26:27 2012] [error] [client 127.0.0.1] (13)Отказано в доступе: file permissions deny server access: /home/alexxx/ServerDocs/calling_cards.my/www/js/script.js, referer: http://calling_cards.my/
+[Mon Apr 16 12:26:27 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 12:26:28 2012] [error] [client 127.0.0.1] (13)Отказано в доступе: file permissions deny server access: /home/alexxx/ServerDocs/calling_cards.my/www/css/reset.css, referer: http://calling_cards.my/
+[Mon Apr 16 12:26:28 2012] [error] [client 127.0.0.1] (13)Отказано в доступе: file permissions deny server access: /home/alexxx/ServerDocs/calling_cards.my/www/css/style.css, referer: http://calling_cards.my/
+[Mon Apr 16 12:26:28 2012] [error] [client 127.0.0.1] (13)Отказано в доступе: file permissions deny server access: /home/alexxx/ServerDocs/calling_cards.my/www/js/jquery-1.7.1.js, referer: http://calling_cards.my/
+[Mon Apr 16 12:26:28 2012] [error] [client 127.0.0.1] (13)Отказано в доступе: file permissions deny server access: /home/alexxx/ServerDocs/calling_cards.my/www/js/script.js, referer: http://calling_cards.my/
+[Mon Apr 16 12:26:28 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 12:26:28 2012] [error] [client 127.0.0.1] (13)Отказано в доступе: file permissions deny server access: /home/alexxx/ServerDocs/calling_cards.my/www/css/reset.css, referer: http://calling_cards.my/
+[Mon Apr 16 12:26:28 2012] [error] [client 127.0.0.1] (13)Отказано в доступе: file permissions deny server access: /home/alexxx/ServerDocs/calling_cards.my/www/css/style.css, referer: http://calling_cards.my/
+[Mon Apr 16 12:26:28 2012] [error] [client 127.0.0.1] (13)Отказано в доступе: file permissions deny server access: /home/alexxx/ServerDocs/calling_cards.my/www/js/jquery-1.7.1.js, referer: http://calling_cards.my/
+[Mon Apr 16 12:26:28 2012] [error] [client 127.0.0.1] (13)Отказано в доступе: file permissions deny server access: /home/alexxx/ServerDocs/calling_cards.my/www/js/script.js, referer: http://calling_cards.my/
+[Mon Apr 16 12:26:28 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 12:26:28 2012] [error] [client 127.0.0.1] (13)Отказано в доступе: file permissions deny server access: /home/alexxx/ServerDocs/calling_cards.my/www/css/reset.css, referer: http://calling_cards.my/
+[Mon Apr 16 12:26:28 2012] [error] [client 127.0.0.1] (13)Отказано в доступе: file permissions deny server access: /home/alexxx/ServerDocs/calling_cards.my/www/css/style.css, referer: http://calling_cards.my/
+[Mon Apr 16 12:26:28 2012] [error] [client 127.0.0.1] (13)Отказано в доступе: file permissions deny server access: /home/alexxx/ServerDocs/calling_cards.my/www/js/jquery-1.7.1.js, referer: http://calling_cards.my/
+[Mon Apr 16 12:26:28 2012] [error] [client 127.0.0.1] (13)Отказано в доступе: file permissions deny server access: /home/alexxx/ServerDocs/calling_cards.my/www/js/script.js, referer: http://calling_cards.my/
+[Mon Apr 16 12:26:28 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 12:31:26 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 12:31:34 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:01:57 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:02:18 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:02:19 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:02:19 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:02:19 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:02:19 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:02:19 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:02:20 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:02:20 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:02:20 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:02:20 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:02:21 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:02:21 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:02:21 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:02:54 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:03:37 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:03:38 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:03:38 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:03:38 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:04:41 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:04:41 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:04:42 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:04:42 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:04:42 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:04:42 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:04:42 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:04:43 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:04:43 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:04:43 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:05:31 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:05:31 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:05:32 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:05:32 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:05:39 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:05:40 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:05:40 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:06:26 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:06:41 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:06:42 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:06:42 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:07:30 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:07:31 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:07:31 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:07:31 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:07:31 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:11:23 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:20:02 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:20:03 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:20:03 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:20:03 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:20:04 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:29:38 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:29:38 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:29:39 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:29:39 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:29:39 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:29:39 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:29:39 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:29:39 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:29:40 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:29:40 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:31:24 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:31:24 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:31:25 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:31:25 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:31:25 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:31:25 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:31:25 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:31:25 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:31:26 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:31:26 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:31:26 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:31:26 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:31:26 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:31:27 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:31:27 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:31:27 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:31:27 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:31:27 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:31:28 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:31:28 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:31:28 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:31:28 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:31:28 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:31:29 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:31:29 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:31:29 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:31:29 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:31:29 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:31:30 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:31:30 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:31:30 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:31:30 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:31:30 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:31:31 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 13:31:31 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:05:25 2012] [error] [client 127.0.0.1] PHP Fatal error:  Call to undefined function base_url() in /home/alexxx/ServerDocs/calling_cards.my/www/application/views/cards/header_view.php on line 14
+[Mon Apr 16 14:05:26 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:12:17 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:12:18 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:12:19 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:12:19 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:12:19 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:12:20 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:12:20 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:12:37 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:28:21 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:28:22 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:28:23 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:28:23 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:28:23 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:31:40 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:31:41 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:31:52 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:31:54 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:31:56 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:32:44 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:32:45 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:32:46 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:32:46 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:32:46 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:32:46 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:32:58 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:32:58 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:32:58 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:32:59 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:32:59 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:32:59 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:32:59 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:32:59 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:32:59 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:32:59 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:33:00 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:33:00 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:33:04 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:34:33 2012] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /home/alexxx/ServerDocs/calling_cards.my/www/application/controllers/cards.php on line 8
+[Mon Apr 16 14:34:33 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:34:34 2012] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /home/alexxx/ServerDocs/calling_cards.my/www/application/controllers/cards.php on line 8
+[Mon Apr 16 14:34:34 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:34:34 2012] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /home/alexxx/ServerDocs/calling_cards.my/www/application/controllers/cards.php on line 8
+[Mon Apr 16 14:34:34 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:34:34 2012] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /home/alexxx/ServerDocs/calling_cards.my/www/application/controllers/cards.php on line 8
+[Mon Apr 16 14:34:34 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:34:34 2012] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /home/alexxx/ServerDocs/calling_cards.my/www/application/controllers/cards.php on line 8
+[Mon Apr 16 14:34:34 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:34:34 2012] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /home/alexxx/ServerDocs/calling_cards.my/www/application/controllers/cards.php on line 8
+[Mon Apr 16 14:34:34 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:34:34 2012] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /home/alexxx/ServerDocs/calling_cards.my/www/application/controllers/cards.php on line 8
+[Mon Apr 16 14:34:35 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:34:35 2012] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /home/alexxx/ServerDocs/calling_cards.my/www/application/controllers/cards.php on line 8
+[Mon Apr 16 14:34:35 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:34:35 2012] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /home/alexxx/ServerDocs/calling_cards.my/www/application/controllers/cards.php on line 8
+[Mon Apr 16 14:34:35 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:35:02 2012] [error] [client 127.0.0.1] PHP Fatal error:  Cannot use [] for reading in /home/alexxx/ServerDocs/calling_cards.my/www/application/controllers/cards.php on line 5
+[Mon Apr 16 14:35:02 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:35:02 2012] [error] [client 127.0.0.1] PHP Fatal error:  Cannot use [] for reading in /home/alexxx/ServerDocs/calling_cards.my/www/application/controllers/cards.php on line 5
+[Mon Apr 16 14:35:02 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:35:02 2012] [error] [client 127.0.0.1] PHP Fatal error:  Cannot use [] for reading in /home/alexxx/ServerDocs/calling_cards.my/www/application/controllers/cards.php on line 5
+[Mon Apr 16 14:35:02 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:35:03 2012] [error] [client 127.0.0.1] PHP Fatal error:  Cannot use [] for reading in /home/alexxx/ServerDocs/calling_cards.my/www/application/controllers/cards.php on line 5
+[Mon Apr 16 14:35:03 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:35:20 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:35:20 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:35:21 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:35:21 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:35:21 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:35:21 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:35:21 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:39:55 2012] [error] [client 127.0.0.1] PHP Fatal error:  Cannot access empty property in /home/alexxx/ServerDocs/calling_cards.my/www/application/controllers/cards.php on line 17
+[Mon Apr 16 14:39:55 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:42:40 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:43:03 2012] [error] [client 127.0.0.1] PHP Fatal error:  Cannot access empty property in /home/alexxx/ServerDocs/calling_cards.my/www/application/controllers/cards.php on line 17
+[Mon Apr 16 14:43:03 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:43:03 2012] [error] [client 127.0.0.1] PHP Fatal error:  Cannot access empty property in /home/alexxx/ServerDocs/calling_cards.my/www/application/controllers/cards.php on line 17
+[Mon Apr 16 14:43:03 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:43:24 2012] [error] [client 127.0.0.1] PHP Fatal error:  Cannot access empty property in /home/alexxx/ServerDocs/calling_cards.my/www/application/controllers/cards.php on line 17
+[Mon Apr 16 14:43:25 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:43:26 2012] [error] [client 127.0.0.1] PHP Fatal error:  Cannot access empty property in /home/alexxx/ServerDocs/calling_cards.my/www/application/controllers/cards.php on line 17
+[Mon Apr 16 14:43:26 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:43:26 2012] [error] [client 127.0.0.1] PHP Fatal error:  Cannot access empty property in /home/alexxx/ServerDocs/calling_cards.my/www/application/controllers/cards.php on line 17
+[Mon Apr 16 14:43:26 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:43:27 2012] [error] [client 127.0.0.1] PHP Fatal error:  Cannot access empty property in /home/alexxx/ServerDocs/calling_cards.my/www/application/controllers/cards.php on line 17
+[Mon Apr 16 14:43:28 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:44:51 2012] [error] [client 127.0.0.1] PHP Fatal error:  Cannot access empty property in /home/alexxx/ServerDocs/calling_cards.my/www/application/controllers/cards.php on line 17
+[Mon Apr 16 14:44:51 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:45:35 2012] [error] [client 127.0.0.1] PHP Fatal error:  Cannot access empty property in /home/alexxx/ServerDocs/calling_cards.my/www/application/controllers/cards.php on line 17
+[Mon Apr 16 14:45:35 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:45:37 2012] [error] [client 127.0.0.1] PHP Fatal error:  Cannot access empty property in /home/alexxx/ServerDocs/calling_cards.my/www/application/controllers/cards.php on line 17
+[Mon Apr 16 14:45:37 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:45:37 2012] [error] [client 127.0.0.1] PHP Fatal error:  Cannot access empty property in /home/alexxx/ServerDocs/calling_cards.my/www/application/controllers/cards.php on line 17
+[Mon Apr 16 14:45:37 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:45:37 2012] [error] [client 127.0.0.1] PHP Fatal error:  Cannot access empty property in /home/alexxx/ServerDocs/calling_cards.my/www/application/controllers/cards.php on line 17
+[Mon Apr 16 14:45:37 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:45:38 2012] [error] [client 127.0.0.1] PHP Fatal error:  Cannot access empty property in /home/alexxx/ServerDocs/calling_cards.my/www/application/controllers/cards.php on line 17
+[Mon Apr 16 14:45:38 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:45:38 2012] [error] [client 127.0.0.1] PHP Fatal error:  Cannot access empty property in /home/alexxx/ServerDocs/calling_cards.my/www/application/controllers/cards.php on line 17
+[Mon Apr 16 14:45:38 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:45:38 2012] [error] [client 127.0.0.1] PHP Fatal error:  Cannot access empty property in /home/alexxx/ServerDocs/calling_cards.my/www/application/controllers/cards.php on line 17
+[Mon Apr 16 14:45:38 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:45:38 2012] [error] [client 127.0.0.1] PHP Fatal error:  Cannot access empty property in /home/alexxx/ServerDocs/calling_cards.my/www/application/controllers/cards.php on line 17
+[Mon Apr 16 14:45:38 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:45:38 2012] [error] [client 127.0.0.1] PHP Fatal error:  Cannot access empty property in /home/alexxx/ServerDocs/calling_cards.my/www/application/controllers/cards.php on line 17
+[Mon Apr 16 14:45:38 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:45:38 2012] [error] [client 127.0.0.1] PHP Fatal error:  Cannot access empty property in /home/alexxx/ServerDocs/calling_cards.my/www/application/controllers/cards.php on line 17
+[Mon Apr 16 14:45:38 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:45:39 2012] [error] [client 127.0.0.1] PHP Fatal error:  Cannot access empty property in /home/alexxx/ServerDocs/calling_cards.my/www/application/controllers/cards.php on line 17
+[Mon Apr 16 14:45:39 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:46:04 2012] [error] [client 127.0.0.1] PHP Fatal error:  Cannot access empty property in /home/alexxx/ServerDocs/calling_cards.my/www/application/controllers/cards.php on line 19
+[Mon Apr 16 14:46:05 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:46:18 2012] [error] [client 127.0.0.1] PHP Fatal error:  Cannot access empty property in /home/alexxx/ServerDocs/calling_cards.my/www/application/controllers/cards.php on line 20
+[Mon Apr 16 14:46:19 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:46:19 2012] [error] [client 127.0.0.1] PHP Fatal error:  Cannot access empty property in /home/alexxx/ServerDocs/calling_cards.my/www/application/controllers/cards.php on line 20
+[Mon Apr 16 14:46:19 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:46:20 2012] [error] [client 127.0.0.1] PHP Fatal error:  Cannot access empty property in /home/alexxx/ServerDocs/calling_cards.my/www/application/controllers/cards.php on line 20
+[Mon Apr 16 14:46:20 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:46:20 2012] [error] [client 127.0.0.1] PHP Fatal error:  Cannot access empty property in /home/alexxx/ServerDocs/calling_cards.my/www/application/controllers/cards.php on line 20
+[Mon Apr 16 14:46:20 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:46:33 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:48:05 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:49:13 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 14:58:26 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 15:01:01 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 15:07:37 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 15:07:38 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 15:07:53 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 15:12:00 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 15:13:49 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 15:13:50 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 15:17:30 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 15:17:31 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 15:18:09 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 15:19:26 2012] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/alexxx/ServerDocs/calling_cards.my/www/application/views/cards/main_view.php on line 5
+[Mon Apr 16 15:19:26 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 15:21:22 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 15:21:23 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 15:21:39 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 15:21:41 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 15:22:16 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 15:23:56 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 15:24:54 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 15:24:58 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 15:25:22 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 15:25:25 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 15:25:57 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 15:26:12 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 15:29:48 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 15:29:49 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 15:30:27 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 15:30:36 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 15:31:08 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 15:31:10 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 15:33:36 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 15:33:52 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 15:35:07 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 15:35:18 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 15:36:18 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 15:36:42 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 15:37:55 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 15:37:57 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 15:37:58 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 15:37:59 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 15:38:00 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 15:38:01 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 15:38:02 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 15:38:03 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 15:38:04 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 15:38:05 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 15:38:05 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 15:38:06 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 15:38:23 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 15:38:48 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 15:40:17 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 15:40:51 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 15:41:14 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 15:46:15 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 15:46:17 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 15:47:07 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 15:47:44 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 15:48:57 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 15:51:55 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 15:52:13 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 15:52:31 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 15:52:46 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 15:53:44 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/href=, referer: http://calling_cards.my/
+[Mon Apr 16 15:53:46 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 15:53:46 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/href=, referer: http://calling_cards.my/
+[Mon Apr 16 15:53:47 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 15:53:49 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 15:54:11 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/http:, referer: http://calling_cards.my/
+[Mon Apr 16 15:54:13 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 15:54:13 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/http:, referer: http://calling_cards.my/
+[Mon Apr 16 15:54:14 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 15:54:15 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 15:54:17 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 15:56:20 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 15:56:21 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 15:56:54 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 15:59:38 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:00:08 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:01:08 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:01:33 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:03:49 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:04:17 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:04:38 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:05:30 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:05:46 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:05:46 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:05:47 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:05:59 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:06:14 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:06:16 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:06:16 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:06:17 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:06:22 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:06:55 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:06:56 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:06:57 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:06:57 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:06:57 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:07:11 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:07:11 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:07:15 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:07:16 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:07:16 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:07:16 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:07:30 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:07:42 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:07:43 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:07:43 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:08:03 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:08:21 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:08:38 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:09:06 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:09:12 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:09:17 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:09:22 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:09:24 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:09:31 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:09:31 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:09:31 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:09:31 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:09:40 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:09:40 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:09:40 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:09:41 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:09:49 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:09:55 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:10:19 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:10:20 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:10:20 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:10:20 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:14:52 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:17:43 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:18:14 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:18:27 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:19:50 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:22:05 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:22:29 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:22:45 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:23:19 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:23:57 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:24:33 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:25:04 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:27:05 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:27:29 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:29:40 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:29:42 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:30:35 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:33:41 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/css/style.css, referer: http://calling_cards.my/
+[Mon Apr 16 16:33:41 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:33:43 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/css/style.css, referer: http://calling_cards.my/
+[Mon Apr 16 16:33:43 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:33:43 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/css/style.css, referer: http://calling_cards.my/
+[Mon Apr 16 16:33:43 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:33:43 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/css/style.css, referer: http://calling_cards.my/
+[Mon Apr 16 16:33:43 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:33:43 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/css/style.css, referer: http://calling_cards.my/
+[Mon Apr 16 16:33:43 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:33:43 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/css/style.css, referer: http://calling_cards.my/
+[Mon Apr 16 16:33:43 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:33:44 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/css/style.css, referer: http://calling_cards.my/
+[Mon Apr 16 16:33:44 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:33:44 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/css/style.css, referer: http://calling_cards.my/
+[Mon Apr 16 16:33:44 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:33:44 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/css/style.css, referer: http://calling_cards.my/
+[Mon Apr 16 16:33:44 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:33:44 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/css/style.css, referer: http://calling_cards.my/
+[Mon Apr 16 16:33:44 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:34:07 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/reset.css, referer: http://calling_cards.my/
+[Mon Apr 16 16:34:07 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:34:33 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/css/cards/..css, referer: http://calling_cards.my/
+[Mon Apr 16 16:34:33 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:34:34 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/css/cards/..css, referer: http://calling_cards.my/
+[Mon Apr 16 16:34:34 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:34:34 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/css/cards/..css, referer: http://calling_cards.my/
+[Mon Apr 16 16:34:34 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:34:34 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/css/cards/..css, referer: http://calling_cards.my/
+[Mon Apr 16 16:34:34 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:34:40 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/css/css, referer: http://calling_cards.my/
+[Mon Apr 16 16:34:40 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:34:41 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/css/css, referer: http://calling_cards.my/
+[Mon Apr 16 16:34:41 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:34:41 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/css/css, referer: http://calling_cards.my/
+[Mon Apr 16 16:34:41 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:34:41 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/css/css, referer: http://calling_cards.my/
+[Mon Apr 16 16:34:42 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:34:42 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/css/css, referer: http://calling_cards.my/
+[Mon Apr 16 16:34:42 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:35:15 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:35:49 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:44:26 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:46:17 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:46:36 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:48:20 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:50:32 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:50:46 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:50:55 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:51:07 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:51:16 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:51:40 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:51:41 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:51:41 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:51:41 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:52:07 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:52:31 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:52:33 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:52:59 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:52:59 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:52:59 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:53:00 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:53:22 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:53:38 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:53:43 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:54:43 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:56:21 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:57:20 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:58:44 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:59:23 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:59:50 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:59:50 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:59:51 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:59:51 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 16:59:51 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:00:17 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:00:27 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:00:37 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:00:43 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:00:53 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:00:54 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:00:54 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:01:03 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:01:32 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:02:29 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:03:55 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:04:38 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:04:39 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:04:39 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:04:39 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:05:14 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:05:15 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:05:15 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:05:31 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:05:32 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:05:32 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:05:32 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:06:00 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:06:01 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:06:01 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:06:01 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:06:02 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:06:02 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:06:02 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:06:02 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:06:02 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:06:02 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:06:03 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:06:03 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:06:03 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:07:27 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:07:28 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:07:28 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:07:28 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:07:28 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:08:33 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:08:34 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:08:34 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:08:34 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:09:45 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:09:46 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:09:46 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:09:46 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:09:46 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:09:46 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:10:03 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:10:03 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:10:04 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:10:04 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:10:04 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:10:04 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:10:04 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:10:26 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:10:26 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:10:26 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:10:27 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:11:46 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:12:23 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:12:24 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:12:24 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:12:24 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:13:39 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:13:57 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:14:18 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:14:19 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:14:19 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:14:47 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:16:42 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:16:42 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:16:43 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:16:43 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:16:43 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:16:43 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:16:44 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:16:44 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:17:05 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:17:12 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:17:21 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:17:25 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:17:29 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:17:33 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:17:38 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:25:34 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:28:54 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:34:06 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:35:39 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:35:45 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:36:24 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:36:48 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:36:56 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:47:25 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:47:28 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:47:35 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:58:59 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 17:59:00 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/cards, referer: http://calling_cards.my/
+[Mon Apr 16 17:59:03 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/cards, referer: http://calling_cards.my/
+[Mon Apr 16 17:59:04 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/cards, referer: http://calling_cards.my/
+[Mon Apr 16 17:59:06 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/cards, referer: http://calling_cards.my/
+[Mon Apr 16 17:59:06 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/cards, referer: http://calling_cards.my/
+[Mon Apr 16 17:59:08 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/cards, referer: http://calling_cards.my/
+[Mon Apr 16 17:59:08 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/cards, referer: http://calling_cards.my/
+[Mon Apr 16 17:59:10 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/cards, referer: http://calling_cards.my/
+[Mon Apr 16 17:59:10 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/cards, referer: http://calling_cards.my/
+[Mon Apr 16 17:59:10 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/cards, referer: http://calling_cards.my/
+[Mon Apr 16 17:59:12 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/cards, referer: http://calling_cards.my/
+[Mon Apr 16 17:59:13 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/cards, referer: http://calling_cards.my/
+[Mon Apr 16 17:59:13 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/cards, referer: http://calling_cards.my/
+[Mon Apr 16 17:59:13 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/cards, referer: http://calling_cards.my/
+[Mon Apr 16 17:59:14 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/cards, referer: http://calling_cards.my/
+[Mon Apr 16 17:59:14 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/cards, referer: http://calling_cards.my/
+[Mon Apr 16 18:00:46 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 18:00:46 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 18:00:46 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 18:00:48 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/cards, referer: http://calling_cards.my/
+[Mon Apr 16 18:00:49 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/cards, referer: http://calling_cards.my/
+[Mon Apr 16 18:00:49 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/cards, referer: http://calling_cards.my/
+[Mon Apr 16 18:00:50 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/cards, referer: http://calling_cards.my/
+[Mon Apr 16 18:00:50 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/cards, referer: http://calling_cards.my/
+[Mon Apr 16 18:00:50 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/cards, referer: http://calling_cards.my/
+[Mon Apr 16 18:00:51 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/cards, referer: http://calling_cards.my/
+[Mon Apr 16 18:01:02 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 18:01:03 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/cards, referer: http://calling_cards.my/
+[Mon Apr 16 18:01:03 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/cards, referer: http://calling_cards.my/
+[Mon Apr 16 18:01:16 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/cards
+[Mon Apr 16 18:01:16 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 18:01:47 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/cards
+[Mon Apr 16 18:01:47 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 18:01:57 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/cards
+[Mon Apr 16 18:01:57 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 18:01:59 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/cards
+[Mon Apr 16 18:01:59 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 18:02:14 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 18:02:19 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 18:04:19 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 18:04:20 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 18:04:21 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/cards, referer: http://calling_cards.my/
+[Mon Apr 16 18:04:22 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/cards, referer: http://calling_cards.my/
+[Mon Apr 16 18:04:23 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/cards, referer: http://calling_cards.my/
+[Mon Apr 16 18:04:24 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/cards, referer: http://calling_cards.my/
+[Mon Apr 16 18:05:44 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 18:05:45 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/cards, referer: http://calling_cards.my/
+[Mon Apr 16 18:05:47 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/cards, referer: http://calling_cards.my/
+[Mon Apr 16 18:05:48 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/cards, referer: http://calling_cards.my/
+[Mon Apr 16 18:05:48 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/cards, referer: http://calling_cards.my/
+[Mon Apr 16 18:06:27 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 18:06:28 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/favicon.ico
+[Mon Apr 16 18:06:28 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/cards, referer: http://calling_cards.my/
+[Mon Apr 16 18:06:31 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/cards, referer: http://calling_cards.my/
+[Mon Apr 16 18:06:32 2012] [error] [client 127.0.0.1] File does not exist: /home/alexxx/ServerDocs/calling_cards.my/www/cards, referer: http://calling_cards.my/
+[Mon Apr 16 19:42:14 2012] [error] [client 127.0.0.1] PHP Fatal error:  Cannot access parent:: when current class scope has no parent in /home/alexxx/ServerDocs/calling_cards.my/www/application/libraries/cards/cards_library.php on line 9
+[Mon Apr 16 19:58:53 2012] [error] [client 127.0.0.1] PHP Fatal error:  Call to a member function make_xml() on a non-object in /home/alexxx/ServerDocs/calling_cards.my/www/application/controllers/cards.php on line 59, referer: http://calling_cards.my/
+[Mon Apr 16 19:59:42 2012] [error] [client 127.0.0.1] PHP Fatal error:  Call to a member function make_xml() on a non-object in /home/alexxx/ServerDocs/calling_cards.my/www/application/controllers/cards.php on line 59, referer: http://calling_cards.my/
+[Mon Apr 16 20:00:47 2012] [error] [client 127.0.0.1] PHP Fatal error:  Call to undefined function xml_dom() in /home/alexxx/ServerDocs/calling_cards.my/www/application/libraries/cards/cards_library.php on line 10, referer: http://calling_cards.my/
+[Mon Apr 16 20:03:39 2012] [error] [client 127.0.0.1] PHP Fatal error:  Call to a member function helper() on a non-object in /home/alexxx/ServerDocs/calling_cards.my/www/application/libraries/cards/cards_library.php on line 8
+[Mon Apr 16 20:05:13 2012] [error] [client 127.0.0.1] PHP Fatal error:  Call to a member function helper() on a non-object in /home/alexxx/ServerDocs/calling_cards.my/www/application/libraries/cards/cards_library.php on line 8
+[Mon Apr 16 20:06:05 2012] [error] [client 127.0.0.1] PHP Fatal error:  Call to undefined function xml_dom() in /home/alexxx/ServerDocs/calling_cards.my/www/application/libraries/cards/cards_library.php on line 13, referer: http://calling_cards.my/
+[Mon Apr 16 20:08:34 2012] [error] [client 127.0.0.1] PHP Fatal error:  Call to undefined function xml_dom() in /home/alexxx/ServerDocs/calling_cards.my/www/application/libraries/cards/cards_library.php on line 13, referer: http://calling_cards.my/
+[Mon Apr 16 20:09:18 2012] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/alexxx/ServerDocs/calling_cards.my/www/application/libraries/cards/cards_library.php on line 15
+[Mon Apr 16 20:09:20 2012] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/alexxx/ServerDocs/calling_cards.my/www/application/libraries/cards/cards_library.php on line 15
+[Mon Apr 16 20:09:20 2012] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/alexxx/ServerDocs/calling_cards.my/www/application/libraries/cards/cards_library.php on line 15
+[Mon Apr 16 20:09:30 2012] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/alexxx/ServerDocs/calling_cards.my/www/application/libraries/cards/cards_library.php on line 14
+[Mon Apr 16 20:09:31 2012] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/alexxx/ServerDocs/calling_cards.my/www/application/libraries/cards/cards_library.php on line 14
+[Mon Apr 16 20:09:31 2012] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/alexxx/ServerDocs/calling_cards.my/www/application/libraries/cards/cards_library.php on line 14
+[Mon Apr 16 20:09:31 2012] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/alexxx/ServerDocs/calling_cards.my/www/application/libraries/cards/cards_library.php on line 14
+[Mon Apr 16 20:09:31 2012] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/alexxx/ServerDocs/calling_cards.my/www/application/libraries/cards/cards_library.php on line 14
+[Mon Apr 16 20:10:41 2012] [error] [client 127.0.0.1] PHP Fatal error:  Call to undefined function xml_dom() in /home/alexxx/ServerDocs/calling_cards.my/www/application/libraries/cards/cards_library.php on line 14, referer: http://calling_cards.my/
+[Mon Apr 16 20:11:26 2012] [error] [client 127.0.0.1] PHP Fatal error:  Call to undefined function xml_dom() in /home/alexxx/ServerDocs/calling_cards.my/www/application/libraries/cards/cards_library.php on line 15, referer: http://calling_cards.my/
+[Tue Apr 17 15:21:18 2012] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected ';' in /home/alexxx/ServerDocs/calling_cards.my/www/application/controllers/cards.php on line 60
+[Tue Apr 17 16:11:29 2012] [error] [client 127.0.0.1] PHP Fatal error:  Function name must be a string in /home/alexxx/ServerDocs/calling_cards.my/www/application/controllers/cards.php on line 59, referer: http://calling_cards.my/
+[Fri Apr 20 19:16:21 2012] [error] [client 127.0.0.1] PHP Fatal error:  Call to a member function get_all_cards() on a non-object in /home/alexxx/ServerDocs/softserve.my/www/application/controllers/main.php on line 27
+[Fri Apr 20 19:16:47 2012] [error] [client 127.0.0.1] PHP Fatal error:  Call to undefined function base_url() in /home/alexxx/ServerDocs/softserve.my/www/application/views/header_view.php on line 14
+[Sun Apr 22 16:31:20 2012] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected '[' in /home/alexxx/ServerDocs/softserve.my/www/application/controllers/sort_types.php on line 43, referer: http://softserve.my/sort_types
+[Sun Apr 22 17:06:19 2012] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /home/alexxx/ServerDocs/softserve.my/www/application/libraries/sort/sort_library.php on line 73, referer: http://softserve.my/
+[Sun Apr 22 17:27:37 2012] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /home/alexxx/ServerDocs/softserve.my/www/application/libraries/sort/sort_library.php on line 94, referer: http://softserve.my/
+[Sun Apr 22 17:41:53 2012] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/alexxx/ServerDocs/softserve.my/www/application/libraries/sort/sort_library.php on line 84, referer: http://softserve.my/
+[Sun Apr 22 17:41:54 2012] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/alexxx/ServerDocs/softserve.my/www/application/libraries/sort/sort_library.php on line 84, referer: http://softserve.my/
+[Sun Apr 22 17:41:54 2012] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/alexxx/ServerDocs/softserve.my/www/application/libraries/sort/sort_library.php on line 84, referer: http://softserve.my/
+[Sun Apr 22 18:42:03 2012] [error] [client 127.0.0.1] PHP Fatal error:  Call to undefined function swap() in /home/alexxx/ServerDocs/softserve.my/www/application/libraries/sort/sort_library.php on line 159, referer: http://softserve.my/sort_types
+[Sun Apr 22 18:43:01 2012] [error] [client 127.0.0.1] PHP Fatal error:  Call to undefined function swap() in /home/alexxx/ServerDocs/softserve.my/www/application/libraries/sort/sort_library.php on line 159, referer: http://softserve.my/sort_types
+[Sun Apr 22 18:43:36 2012] [error] [client 127.0.0.1] PHP Fatal error:  Call to undefined function swap() in /home/alexxx/ServerDocs/softserve.my/www/application/libraries/sort/sort_library.php on line 159, referer: http://softserve.my/sort_types
+[Sun Apr 22 18:44:57 2012] [error] [client 127.0.0.1] PHP Fatal error:  Call to undefined function fast() in /home/alexxx/ServerDocs/softserve.my/www/application/libraries/sort/sort_library.php on line 166, referer: http://softserve.my/sort_types
+[Sun Apr 22 18:55:54 2012] [error] [client 127.0.0.1] PHP Fatal error:  Call to undefined function partition() in /home/alexxx/ServerDocs/softserve.my/www/application/libraries/sort/sort_library.php on line 165, referer: http://softserve.my/sort_types
+[Sun Apr 22 18:56:32 2012] [error] [client 127.0.0.1] PHP Fatal error:  Call to undefined function partition() in /home/alexxx/ServerDocs/softserve.my/www/application/libraries/sort/sort_library.php on line 165, referer: http://softserve.my/sort_types
+[Sun Apr 22 18:57:54 2012] [error] [client 127.0.0.1] PHP Fatal error:  Call to undefined function partition() in /home/alexxx/ServerDocs/softserve.my/www/application/libraries/sort/sort_library.php on line 165, referer: http://softserve.my/sort_types
+[Sun Apr 22 18:59:16 2012] [error] [client 127.0.0.1] PHP Fatal error:  Call to undefined function quick_sort() in /home/alexxx/ServerDocs/softserve.my/www/application/libraries/sort/sort_library.php on line 165, referer: http://softserve.my/sort_types
+[Sun Apr 22 18:59:56 2012] [error] [client 127.0.0.1] PHP Fatal error:  Call to undefined function quick_sort() in /home/alexxx/ServerDocs/softserve.my/www/application/libraries/sort/sort_library.php on line 165, referer: http://softserve.my/sort_types
+[Sun Apr 22 18:59:59 2012] [error] [client 127.0.0.1] PHP Fatal error:  Call to undefined function quick_sort() in /home/alexxx/ServerDocs/softserve.my/www/application/libraries/sort/sort_library.php on line 165, referer: http://softserve.my/sort_types
+[Sun Apr 22 19:24:52 2012] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected '[' in /home/alexxx/ServerDocs/softserve.my/www/application/controllers/sort_types.php on line 56, referer: http://softserve.my/sort_types
+[Sun Apr 22 19:24:55 2012] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected '[' in /home/alexxx/ServerDocs/softserve.my/www/application/controllers/sort_types.php on line 56, referer: http://softserve.my/sort_types
+[Sun Apr 22 19:38:59 2012] [error] [client 127.0.0.1] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 40 bytes) in /home/alexxx/ServerDocs/softserve.my/www/application/libraries/sort/sort_library.php on line 161, referer: http://softserve.my/sort_types
+[Sun Apr 22 19:39:00 2012] [error] [client 127.0.0.1] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 32 bytes) in /home/alexxx/ServerDocs/softserve.my/www/application/libraries/sort/sort_library.php on line 161, referer: http://softserve.my/sort_types
+[Sun Apr 22 19:39:30 2012] [error] [client 127.0.0.1] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20 bytes) in /home/alexxx/ServerDocs/softserve.my/www/application/libraries/sort/sort_library.php on line 161, referer: http://softserve.my/sort_types
+[Sun Apr 22 19:39:54 2012] [error] [client 127.0.0.1] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 40 bytes) in /home/alexxx/ServerDocs/softserve.my/www/application/libraries/sort/sort_library.php on line 161, referer: http://softserve.my/sort_types
+[Sun Apr 22 19:41:35 2012] [error] [client 127.0.0.1] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 40 bytes) in /home/alexxx/ServerDocs/softserve.my/www/application/libraries/sort/sort_library.php on line 159, referer: http://softserve.my/sort_types
+[Wed Apr 25 18:15:54 2012] [error] [client 127.0.0.1] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 40 bytes) in /home/alexxx/ServerDocs/softserve.my/www/application/libraries/sort/sort_library.php on line 159, referer: http://softserve.my/sort_types
+[Wed Apr 25 18:45:20 2012] [error] [client 127.0.0.1] PHP Fatal error:  Call to undefined function quicksort() in /home/alexxx/ServerDocs/softserve.my/www/application/libraries/sort/sort_library.php on line 188, referer: http://softserve.my/sort_types
+[Wed Apr 25 18:46:06 2012] [error] [client 127.0.0.1] PHP Fatal error:  Call to undefined function quick_sort() in /home/alexxx/ServerDocs/softserve.my/www/application/libraries/sort/sort_library.php on line 188, referer: http://softserve.my/sort_types
+[Wed Apr 25 18:46:10 2012] [error] [client 127.0.0.1] PHP Fatal error:  Call to undefined function quick_sort() in /home/alexxx/ServerDocs/softserve.my/www/application/libraries/sort/sort_library.php on line 192, referer: http://softserve.my/sort_types
+[Thu Apr 26 22:05:38 2012] [error] [client 127.0.0.1] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in /home/alexxx/ServerDocs/softserve.my/www/application/libraries/sort/sort_library.php on line 18, referer: http://softserve.my/sort_types
+[Thu Apr 26 22:05:44 2012] [error] [client 127.0.0.1] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in /home/alexxx/ServerDocs/softserve.my/www/application/libraries/sort/sort_library.php on line 127, referer: http://softserve.my/sort_types
+[Wed May 02 12:25:43 2012] [error] [client 127.0.0.1] PHP Fatal error:  Cannot access private property Num::$num in /home/alexxx/ServerDocs/softserve.my/www/application/libraries/sort/sort_library.php on line 260, referer: http://softserve.my/sort_types
+[Wed May 16 15:40:49 2012] [error] [client 127.0.0.1] PHP Fatal error:  Declaration of Sort_library::exchange_o() must be compatible with that of iTemplate::exchange_o() in /home/alexxx/ServerDocs/softserve.my/www/application/libraries/sort/sort_library.php on line 13, referer: http://softserve.my/
+[Wed May 16 16:06:25 2012] [error] [client 127.0.0.1] PHP Fatal error:  Declaration of Sort_library::compare_o() must be compatible with that of iTemplate::compare_o() in /home/alexxx/ServerDocs/softserve.my/www/application/libraries/sort/sort_library.php on line 13, referer: http://softserve.my/
+[Wed May 16 16:06:52 2012] [error] [client 127.0.0.1] PHP Fatal error:  Declaration of Sort_library::exchange_o() must be compatible with that of iTemplate::exchange_o() in /home/alexxx/ServerDocs/softserve.my/www/application/libraries/sort/sort_library.php on line 13, referer: http://softserve.my/
+[Wed May 16 16:53:27 2012] [error] [client 127.0.0.1] PHP Fatal error:  Declaration of Sort_library::exchange_o() must be compatible with that of iTemplate::exchange_o() in /home/alexxx/ServerDocs/softserve.my/www/application/libraries/sort/sort_library.php on line 13
+[Wed May 16 16:57:27 2012] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected '[' in /home/alexxx/ServerDocs/softserve.my/www/application/libraries/sort/sort_library.php on line 299
+[Wed May 16 17:10:42 2012] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected '=' in /home/alexxx/ServerDocs/softserve.my/www/application/libraries/sort/sort_library.php on line 297
+[Wed May 16 17:23:36 2012] [error] [client 127.0.0.1] PHP Fatal error:  Call to undefined function compare_o() in /home/alexxx/ServerDocs/softserve.my/www/application/libraries/sort/sort_library.php on line 325, referer: http://softserve.my/sort_types
+[Wed May 16 17:36:11 2012] [error] [client 127.0.0.1] PHP Fatal error:  Call to undefined function compare_o() in /home/alexxx/ServerDocs/softserve.my/www/application/libraries/sort/sort_library.php on line 421, referer: http://softserve.my/sort_types
+[Mon May 21 19:55:06 2012] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/alexxx/ServerDocs/softserve.my/www/application/controllers/arr_and_obj.php on line 43, referer: http://softserve.my/
