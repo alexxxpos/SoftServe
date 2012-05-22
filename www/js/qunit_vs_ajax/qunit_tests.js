@@ -7,8 +7,6 @@ $(document).ready(function(){
     //equal(asyncTest(), 'x', 'Начальные пробелы');
     
     
-    
-    
         $.get(function () {
             // асинхронные проверки
             ok(true);
