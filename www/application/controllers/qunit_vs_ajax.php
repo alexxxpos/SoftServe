@@ -33,7 +33,13 @@ class Qunit_vs_ajax extends CI_Controller {
     }
     
     public function ajaxtest(){
-        echo "Получены параметры с сервера: param1 = ".$_GET['param1']." и param2 = ".$_GET['param2'];
+        if(isset($_POST['a'])){
+            echo "Получены параметры с сервера: param1 = ".$_POST['a'];
+        }else{
+            echo "Ошибка, ничего не пришло";
+
+        }
+        
     } 
 
 

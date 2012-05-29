@@ -1,25 +1,9 @@
 $(document).ready(function(){
-    asyncTest('asynctest1','asynctest2', function () {
+    test("asyncTest()", function () {
         // Pause the test
-        expect(3);
-        
-        
-    //equal(asyncTest(), 'x', 'Начальные пробелы');
-    
-    
-        $.get(function () {
-            // асинхронные проверки
-            ok(true);
-        });
+        //expect(3);
 
-        $.get(function () {
-            // другие асинхронные проверки
-            ok(true);
-            ok(true);
-        });
-
-        setTimeout(function () {
-            start();
-        }, 2000);
+        equal(asyncTest('asynctest1'), 'Получены параметры с сервера: param1 = asynctest1', 'Все верно');
+        
     });
 });
