@@ -242,5 +242,25 @@
         </td>
     </tr>
     
+                <!--   Task 9    -->
+      <tr>
+        <td>Ext JS</td>
+        <td>Стас</td>
+        <td>Май</td>
+        <td>Готово</td>
+        <td><a href="/ext_js">Переход</a></td>
+        <td><div class="arrow"></div></td>
+    </tr>
+    <tr>
+        <td colspan="6">
+            <img class="made_in_ukraine" src="../images/made_in_ukraine.png" alt="made_in_ukraine" />
+            <h4>Дополнительная информация</h4>
+            
+            <ul>
+                <li>Разобраться с фреймворком Ext JS</li>
+                <li>Написать простое приложение (типа "Hello, world!")</li>
+            </ul>   
+        </td>
+    </tr>
     
 </table>
